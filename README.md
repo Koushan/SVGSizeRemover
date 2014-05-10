@@ -5,7 +5,6 @@ A tiny Windows tool to remove **width="x"** and **height="x"** of .svg files. Th
 * Reports
 * Windows right-click context menu item if you use installer
 * Console application
-
 * Source: [github.com/Koushan/SVGSizeRemover](http://github.com/Koushan/SVGSizeRemover)
 
 ## License
